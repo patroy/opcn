@@ -1,0 +1,1 @@
+<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showTabs=0&amp;showCalendars=0&amp;height=500&amp;wkst=1&amp;bgcolor=%23CEE7F7&amp;src=rvdk3unn6p1ru58q1l3rdtgfpc%40group.calendar.google.com&amp;color=%23060D5E&amp;ctz=America%2FHalifax" style=" border-width:0 " width="600" height="500" frameborder="0" scrolling="no"></iframe>
