@@ -5,4 +5,4 @@ Moncton, NB E1C 1X6
 Phone: (506) 859-6975  
 
 ### EMAIL ADDRESS
-ourplace@bellaliant.com
+[mailto](mailto:ourplace@bellaliant.com)
